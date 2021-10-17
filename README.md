@@ -1,1 +1,2 @@
-# Proyecto-IHC
+# FarmUNI
+Proyecto de Interacción Humano Computador
